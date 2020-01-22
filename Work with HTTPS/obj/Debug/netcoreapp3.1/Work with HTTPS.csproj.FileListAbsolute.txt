@@ -1,0 +1,18 @@
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\bin\Debug\netcoreapp3.1\Work with HTTPS.exe
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\bin\Debug\netcoreapp3.1\Work with HTTPS.deps.json
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\bin\Debug\netcoreapp3.1\Work with HTTPS.runtimeconfig.json
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\bin\Debug\netcoreapp3.1\Work with HTTPS.runtimeconfig.dev.json
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\bin\Debug\netcoreapp3.1\Work with HTTPS.dll
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\bin\Debug\netcoreapp3.1\Work with HTTPS.pdb
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\obj\Debug\netcoreapp3.1\Work with HTTPS.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\obj\Debug\netcoreapp3.1\staticwebassets\Work with HTTPS.StaticWebAssets.Manifest.cache
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\obj\Debug\netcoreapp3.1\staticwebassets\Work with HTTPS.StaticWebAssets.xml
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\obj\Debug\netcoreapp3.1\Work with HTTPS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\obj\Debug\netcoreapp3.1\Work with HTTPS.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\obj\Debug\netcoreapp3.1\Work with HTTPS.AssemblyInfo.cs
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\obj\Debug\netcoreapp3.1\Work with HTTPS.RazorTargetAssemblyInfo.cache
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\obj\Debug\netcoreapp3.1\Work with HTTPS.dll
+C:\Users\ivano\source\repos\Work with HTTPS\Work with HTTPS\obj\Debug\netcoreapp3.1\Work with HTTPS.pdb
